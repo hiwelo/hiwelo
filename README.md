@@ -1,4 +1,4 @@
-# Hi folks! 👋
+# Hej folks! 👋
 
 I am Damien, a **Queer UX Engineer**, designing design systems, trying to make Web accessibility accessible, and the Web a more inclusive place.
 
