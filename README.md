@@ -4,9 +4,9 @@ I am a **Queer UX Engineer**, using [they/them pronouns](https://pronoun.is/them
 
 With [my studio](https://raccoon.studio), I am helping compagnies to **build their design systems** and to **more accessible products**.
 
-Through my studio, I lead the design systems project at [Castor](https://castoredc.com). Together, we're trying to help their engineering team to build more efficiently new views and features with semantics, usability, and progressive enhancement in mind.
+At the moment, I'm working on bringing [The 3rd Place](https://3rd.place) to life: an cross-platform media about urban planning and mobility.
+
+Recently, I created and led the design systems at [Castor](https://castoredc.com). The goal was to help design and engineering teams to be closer, and build more efficiently new features. This project was done with a specific focus on semantics, usability, and progressive enhancement in mind.
 
 I also help people to bring accessibility in their work and projects, and to develop design systems through **workshops** and **courses**. 
-I also often [talk about Web accessibility, readability and building accessible design systems](https://speaking.raccoon.studio) in conferences worldwide.
-
-If you are a podcast listener, I am also about to start a new project called [Tokens](https://podcast.tokens.systems) to discuss the daily life of design systems and their teams.
+I also often [talk about Web accessibility, readability and building accessible design systems](https://noti.st/hiwelo) in conferences worldwide.
